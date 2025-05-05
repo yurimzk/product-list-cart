@@ -1,4 +1,7 @@
 import './Products.css';
 
-<main className='product-list'>
-</main>
+export default function ProductList() {
+  <main className='product-list'>
+    <h1>Desserts</h1>
+  </main>
+}
